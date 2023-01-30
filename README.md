@@ -4,7 +4,18 @@ Welcome to my page! :D
 My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
 ![Screenshot (67)](https://user-images.githubusercontent.com/112854862/215570165-e00baed8-1e5b-4b25-bcbf-ee89fc07fe8f.png)
 
+<h1 align="center">Hi 👋, I'm <title> Kathrine </title></h1>
+<h3 align="center">A frontend developer student from Norway</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodehodekatty&label=Profile%20views&color=0e75b6&style=flat" alt="kodehodekatty" /> </p>
+
+- 🔭 I’m currently a participant in [Kodehode](https://jobloop.no/kodehode-modellen)
+
+- 🌱 I’m currently learning **React, TypeScript**
+
+- 👨‍💻 Portfolio( still in progress) [https://kodehodekatty.github.io/Portfolio2023.React/](https://kodehodekatty.github.io/Portfolio2023.React/)
+
+- 📫 How to reach me **kathrine.kodehode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
