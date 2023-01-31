@@ -16,13 +16,13 @@ My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kodehodekatty&label=Profile%20views&color=0e75b6&style=flat" alt="kodehodekatty" /> </p>
 <div align="center"> 
-- 🔭 I’m currently a participant in [Kodehode](https://jobloop.no/kodehode-modellen)
+ 🔭 I’m currently a participant in [Kodehode](https://jobloop.no/kodehode-modellen)
 
-- 🌱 I’m currently learning **React, TypeScript**
+ 🌱 I’m currently learning **React, TypeScript**
 
-- 👨‍💻 Portfolio( still in progress) [https://kodehodekatty.github.io/Portfolio2023.React/](https://kodehodekatty.github.io/Portfolio2023.React/)
+ 👨‍💻 Portfolio( still in progress) [https://kodehodekatty.github.io/Portfolio2023.React/](https://kodehodekatty.github.io/Portfolio2023.React/)
 
-- 📫 How to reach me **kathrine.kodehode@gmail.com**</div>
+ 📫 How to reach me **kathrine.kodehode@gmail.com**</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
