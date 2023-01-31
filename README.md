@@ -39,6 +39,4 @@ My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kodehodekatty&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodehodekatty&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </div>
 
-
-
-[![](https://visitcount.itsvg.in/api?id=Kodehodekatty&icon=0&color=0)](https://visitcount.itsvg.in)</div>
+</div>
