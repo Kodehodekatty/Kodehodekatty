@@ -15,7 +15,7 @@ My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
 <h3 align="center">A frontend developer student from Norway</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kodehodekatty&label=Profile%20views&color=0e75b6&style=flat" alt="kodehodekatty" /> </p>
-<div>![Kodehodekatty's Stats](https://github-readme-stats.vercel.app/api?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&count_private=true) </div>
+![Kodehodekatty's Stats](https://github-readme-stats.vercel.app/api?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&count_private=true) 
 <div align="center"> 
  🔭 I’m currently a participant in [Kodehode](https://jobloop.no/kodehode-modellen)
 
