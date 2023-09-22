@@ -23,7 +23,7 @@ My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
  👨‍💻 Portfolio( still in progress) [https://kodehodekatty.github.io/Portfolio2023.React/](https://kodehodekatty.github.io/Portfolio2023.React/)
 
 
- ![Kodehodekatty's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+<div align="left"> ![Kodehodekatty's Stats](https://github-readme-stats.vercel.app/api?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&count_private=true) </>![Kodehodekatty's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
  📫 How to reach me **kathrine.kodehode@gmail.com**</div>
 
