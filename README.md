@@ -7,7 +7,6 @@ My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
 
 
 
-![Kodehodekatty's Stats] (https://github-readme-stats.vercel.app/api?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&count_private=true)  
 
 
 
