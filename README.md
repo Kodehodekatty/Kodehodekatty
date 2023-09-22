@@ -6,10 +6,10 @@ My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
 
 
 
-<div align="left"> 
-![Kodehodekatty's Stats](https://github-readme-stats.vercel.app/api?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&count_private=true)  </div>
-<div align="center">
-![Kodehodekatty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kodehodekatty&theme=synthwave&hide_border=true) </div>
+
+![Kodehodekatty's Stats] (https://github-readme-stats.vercel.app/api?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&count_private=true)  
+
+
 
 
 
