@@ -15,6 +15,7 @@ My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
 <h3 align="center">A frontend developer student from Norway</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kodehodekatty&label=Profile%20views&color=0e75b6&style=flat" alt="kodehodekatty" /> </p>
+<div align="left"> ![Kodehodekatty's Stats](https://github-readme-stats.vercel.app/api?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&count_private=true) </div>
 <div align="center"> 
  🔭 I’m currently a participant in [Kodehode](https://jobloop.no/kodehode-modellen)
 
@@ -23,9 +24,9 @@ My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
  👨‍💻 Portfolio( still in progress) [https://kodehodekatty.github.io/Portfolio2023.React/](https://kodehodekatty.github.io/Portfolio2023.React/)
 
 
-<div align="left"> ![Kodehodekatty's Stats](https://github-readme-stats.vercel.app/api?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&count_private=true) </div> 
 
-![Kodehodekatty's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodehodekatty&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+
+
 
  📫 How to reach me **kathrine.kodehode@gmail.com**</div>
 
