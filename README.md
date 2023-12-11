@@ -22,6 +22,7 @@ TurbinSikker ---> https://github.com/OptiCorp/TurbinSikker-App
 
 <div align="center"> 
  🔭 I’m currently an intern as Frontend junior developer in [Bouvet](www.bouvet.no) 
+ <a href="https://www.bouvet.no/" target="_blank">Bouvet</a>
 
  🌱 I’m currently learning **React, TypeScript**
 
