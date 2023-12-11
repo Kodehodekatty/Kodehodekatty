@@ -21,8 +21,11 @@ TurbinSikker ---> https://github.com/OptiCorp/TurbinSikker-App
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kodehodekatty&label=Profile%20views&color=0e75b6&style=flat" alt="kodehodekatty" /> </p>
 
 <div align="center"> 
- 🔭 I’m currently an intern as Frontend junior developer in [Bouvet](www.bouvet.no) 
- <a href="https://www.bouvet.no/" target="_blank">Bouvet</a>
+ 🔭 I’m currently an intern as Frontend junior developer in <a href="https://bouvet.no/" >Bouvet</a>
+</p>
+ 
+
+
 
  🌱 I’m currently learning **React, TypeScript**
 
