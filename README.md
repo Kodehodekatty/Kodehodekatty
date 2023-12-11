@@ -29,7 +29,7 @@ TurbinSikker ---> https://github.com/OptiCorp/TurbinSikker-App
 
  🌱 I’m currently learning **React, TypeScript**
 
- 👨‍💻 Portfolio( still in progress) [https://kodehodekatty.github.io/Portfolio2023.React/](https://kodehodekatty.github.io/Portfolio2023.React/)
+ 👨‍💻 <a href="https://kodehodekatty.github.io/Portfolio2023.React/" > Portfolio( still in progress)</a>
 
 
 
