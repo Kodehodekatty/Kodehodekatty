@@ -1,16 +1,26 @@
-Welcome to my page! :D
+Welcome to my page! 💖
 
 
-My Portfolio----> https://kodehodekatty.github.io/Portfolio2023.React/
+ ## Some of my work as a frontend developer at bouvet 🤓 💙
 
- Some of my work as a frontend developer at bouvet :D
+ <p align="center">
+   <a href="https://github.com/OptiCorp/inventory-app/wiki" >  Inventory App</a>
 
-TurbinSikker ---> https://github.com/OptiCorp/TurbinSikker-App
+</p align="center">
+
+
+![Frame 23](https://github.com/Kodehodekatty/Kodehodekatty/assets/112854862/6965129b-7c9e-49e8-a0b4-97bcd3550ccf)
+
+ -------------------
+<p align="center">
+   <a href="https://github.com/OptiCorp/TurbinSikker-App/wiki" > TurbinSikker</a>
+
+</p align="center">
 
 ![Frame 6](https://github.com/Kodehodekatty/Kodehodekatty/assets/112854862/76356b74-5760-49b5-bb23-78772dbca49e)
 
 
-
+------------
 
 
 
