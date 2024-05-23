@@ -29,18 +29,21 @@ Welcome to my page! 💖
 
 
 <h1 align="center">Hi 👋, I'm <title> Kathrine </title></h1>
-<h3 align="center">A frontend developer student from Norway</h3>
+<h3 align="center">A frontend developer from Norway</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kodehodekatty&label=Profile%20views&color=0e75b6&style=flat" alt="kodehodekatty" /> </p>
+<p align="center">  🔭 <img src="https://komarev.com/ghpvc/?username=kodehodekatty&label=Profile%20views&color=0e75b6&style=flat" alt="kodehodekatty" /> </p>
 
 <div align="center"> 
- 🔭 I’m currently an intern as Frontend junior developer in <a href="https://bouvet.no/" >Bouvet</a>
+ <p> I’m currently working as an Frontend developer for  <a href="https://www.bluemint.no/" >bluemint</a>
+ 
 </p>
+<p> previous frontend developer intern at  <a href="https://bouvet.no/" >Bouvet</a></p>
+
  
 
 
 
- 🌱 I’m currently learning **React, TypeScript**
+ 🌱 I mostly use **React, TypeScript**
 
  👨‍💻 <a href="https://kodehodekatty.github.io/Portfolio2023.React/" > Portfolio( still in progress)</a>
 
