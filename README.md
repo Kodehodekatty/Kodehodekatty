@@ -1,5 +1,9 @@
 Welcome to my page! 💖
 
+Currently employed as frontend developer for bluemint.
+
+
+
 
  ## Some of my work as a frontend developer at bouvet 🤓 💙
 
