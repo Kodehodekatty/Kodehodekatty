@@ -1,6 +1,5 @@
 Welcome to my page! 💖
 
-Currently employed as frontend developer for bluemint.
 
 
 
